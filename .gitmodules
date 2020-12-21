@@ -1,6 +1,6 @@
 [submodule "gfx/UltimateCataclysm"]
 	path = gfx/UltimateCataclysm
-	url = git@github.com:CDDA-Tilesets/UltimateCataclysm.git
+	url = git@github.com:CDDA-Tilesets/UltimateCataclysm-src.git
 [submodule "components/UltimateCataclysm-components"]
 	path = components/UltimateCataclysm-components
 	url = git@github.com:CDDA-Tilesets/UltimateCataclysm-components.git
